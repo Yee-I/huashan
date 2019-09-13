@@ -8,3 +8,5 @@ class Demo{
         System.out.println("java我来了");
     }
 }
+
+java太厉害了， 太猛了
