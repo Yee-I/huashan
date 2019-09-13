@@ -10,3 +10,22 @@ class Demo{
 }
 
 java太厉害了， 太猛了
+
+
+
+interface  Person{
+    void study();
+}
+
+class Study  implements Person{
+     void study(){
+        System.out.pritnln("我爱学习");
+     }
+}
+class Demo {
+    public static void main(String[] args){
+           Study  s = new Study();
+	   s.study();
+    }
+
+}
